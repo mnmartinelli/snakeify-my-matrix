@@ -1,6 +1,6 @@
 # snakeify-my-matrix
-an endlesss snake game that is customizeable and you can't die.
+an endless snake game with no game overs.
 
 # Requirements:
--python
--pygame
+- Python
+- Pygame
